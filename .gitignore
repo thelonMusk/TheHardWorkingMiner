@@ -1,0 +1,11 @@
+# Environment variables and API keys
+.env
+*.env
+
+# Build output
+*.o
+*.obj
+
+# OS
+.DS_Store
+Thumbs.db
